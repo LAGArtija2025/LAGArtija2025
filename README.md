@@ -40,7 +40,5 @@
 
 ---
 
-### 🤓 Eres el visitante número:
-![Contador](https://komarev.com/ghpvc/?label=Visitante&username=LAGArtija2025)
-
-> Hasta el próximo commit, nos leemos en el código... ✨
+> Hasta el próximo commit, nos leemos en el código...
+![Contador](https://komarev.com/ghpvc/?label=Visitante&username=LAGArtija2025) ✨
