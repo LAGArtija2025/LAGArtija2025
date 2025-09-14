@@ -1,5 +1,7 @@
 <h1 align="center">¡Hola! LAGArtos 🐊</h1>
-<center><img src="https://media.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif" width="300"/></center>
+<div align="center">
+<img src="https://media.giphy.com/media/H03PuVdwREB21ANkLX/giphy.gif" width="300"/>
+</div>
 <h3 align="center">🧑‍💻 Me gusta resolver mis problemas con código... incluso si eso significa crear unos cuantos nuevos en el proceso. 💡</h3>
 
 ---
@@ -39,8 +41,6 @@
 ---
 
 ### 🤓 Eres el visitante número:
-<!--![Contador](https://komarev.com/ghpvc/?username=LAGArtija2025)-->
-<!--![Visitas](https://visitor-badge.laobi.icu/badge?page_id=LAGArtija2025)-->
 ![Contador](https://komarev.com/ghpvc/?label=Visitante&username=LAGArtija2025)
 
-> Hasta el próximo commit, nos leemos en el código...
+> Hasta el próximo commit, nos leemos en el código... ✨
